@@ -2,3 +2,5 @@
 
 This simple project use the useReducer Hook
 
+# Kudos to web dev simplified.
+
